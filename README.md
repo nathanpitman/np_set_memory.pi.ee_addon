@@ -6,4 +6,7 @@ BASIC USAGE:
 
     {exp:np_set_memory limit="512"}
 
-would set the PHP memory limit for the current template to 512Mb
+PARAMETERS:
+
+limit = '512' (required)
+ - determines in Mb the memory allocation for the current page template.
